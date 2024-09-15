@@ -1,0 +1,18 @@
+# Node modules
+/node_modules
+
+# IDE settings
+/.idea
+/.vscode
+
+# Compiled assets
+/css
+/js
+/assets
+
+# macOS specific files
+.DS_Store
+
+# Temporary or backup files
+*.new
+*.old
